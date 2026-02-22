@@ -1,4 +1,4 @@
-# EBI — Embedded Bitmap Image
+# EBI — Easy Binary Image
 
 **Version:** 1 &nbsp;|&nbsp; **Language:** C++17
 
